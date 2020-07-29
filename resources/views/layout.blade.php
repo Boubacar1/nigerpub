@@ -446,7 +446,7 @@
 								<li><a href="#"><i class="fa fa-envelope"></i> contact@nigerpub.com</a></li>
 							</ul>
 						</div>
-						<p><a href="#">Adresse : Porte 246, rue de la Tapoa, quartier francophonie, Niamey Niger</a></p>
+						<p><a href="#">Adresse : Porte 244, rue de la Tapoa, quartier francophonie, Niamey Niger</a></p>
 							</form>
 						</div>
 					</div>
