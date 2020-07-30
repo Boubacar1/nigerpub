@@ -28,7 +28,6 @@
                 <table class="table table-striped table-bordered bootstrap-datatable datatable">
                   <thead>
                       <tr>
-                          <!-- <th>ID Slider</th> -->
                           <th>Text Slider</th>
                           <th>Image Slider</th>
                           <th>Statut</th>
