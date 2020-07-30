@@ -46,7 +46,7 @@ class SliderController extends Controller
 
     public function all_slider()
     {
-        //$this->AdminAuthCheck();
+        $this->AdminAuthCheck();
         $all_slider = DB::table('tbl_slider')->get();
         $manage_slider = view('admin.all_slider')
             ->with('all_slider', $all_slider);
