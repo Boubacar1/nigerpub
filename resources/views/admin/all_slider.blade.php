@@ -28,7 +28,7 @@
                 <table class="table table-striped table-bordered bootstrap-datatable datatable">
                   <thead>
                       <tr>
-                          <th>ID Slider</th>
+                          <!-- <th>ID Slider</th> -->
                           <th>Text Slider</th>
                           <th>Image Slider</th>
                           <th>Statut</th>
@@ -40,7 +40,7 @@
             @foreach( $all_slider as $v_slider)   
                   <tbody>
                     <tr>
-                        <td>{{ $v_slider->id_slider}}</td>
+                        <!-- <td>{{ $v_slider->id_slider}}</td> -->
                         <td>{{ $v_slider->text_slider }}</td>  
                         <td><img src="{{URL::to($v_slider->image_slider)}}" style="height: 80px; width:80px;">
                         </td>                           

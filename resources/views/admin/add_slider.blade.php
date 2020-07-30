@@ -45,7 +45,7 @@
                 <div class="control-group hidden-phone">
                     <label class="control-label" for="textarea2">Text du slider</label>
                     <div class="controls">
-                      <textarea class="cleditor" name="text_slider" rows="3" required=""></textarea>
+                      <textarea class="text" name="text_slider" rows="3" required=""></textarea>
                     </div>
                 </div> 
                 <div class="control-group hidden-phone">
