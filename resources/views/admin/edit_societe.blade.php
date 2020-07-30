@@ -67,7 +67,7 @@
                 <div class="control-group hidden-phone">
                     <label class="control-label" for="textarea2">Designation de la société</label>
                     <div class="controls">
-                      <textarea class="text" name="societe_short_description" rows="3" required>
+                      <textarea class="cleditor" name="societe_short_description" rows="3" required>
                             {{$info_societe->societe_short_description}}
                       </textarea>
                     </div>
@@ -75,7 +75,7 @@
                   <div class="control-group hidden-phone">
                     <label class="control-label" for="textarea2">Détail de la societe</label>
                     <div class="controls">
-                      <textarea class="text" name="societe_long_description" rows="3" required>
+                      <textarea class="cleditor" name="societe_long_description" rows="3" required>
                             {{$info_societe->societe_long_description}}
                       </textarea>
                     </div>
