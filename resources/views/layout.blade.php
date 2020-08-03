@@ -178,7 +178,7 @@
 		<div class="container text-center">
 			<div class="row">
 				<div class="col-sm-12">
-					<img src="{{URL::to('frontend/images/home/sponsors.jpg')}}" alt="" />	
+					<img src="{{URL::to('frontend/images/home/sponsors.jpeg')}}" alt="" />	
 				</div>
 			</div>
 		</div>
