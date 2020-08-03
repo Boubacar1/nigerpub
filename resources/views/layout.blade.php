@@ -74,7 +74,7 @@
 									<li><a href="">UK</a></li>
 								</ul> -->
 								<button type="button" class="btn btn-default get">
-								<a class="brand" class="scrollto" href="https://docs.google.com/forms/d/1yJDbkEdYNNcSZ_2o9cC4N8rQWX1v4PEWqHiqpIPQdUA/prefill" target="_blank"><i data-toggle="tooltip"></i><span>ESPACE QUIZZ</span></a>
+								<a class="brand" class="scrollto" href="https://docs.google.com/forms/d/1yJDbkEdYNNcSZ_2o9cC4N8rQWX1v4PEWqHiqpIPQdUA" target="_blank"><i data-toggle="tooltip"></i><span>ESPACE QUIZZ</span></a>
 									
 								</button>
 							</div>
