@@ -44,11 +44,11 @@
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://www.facebook.com/Niger-pub-572289830114148"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								<li><a href="https://www.linkedin.com/in/niger-pub-6092b31b4"><i class="fa fa-linkedin"></i></a></li>
+								<!-- <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
 							</ul>
 						</div>
 					</div>
@@ -446,7 +446,7 @@
 								<li><a href="#"><i class="fa fa-envelope"></i> contact@nigerpub.com</a></li>
 							</ul>
 						</div>
-						<p><a href="#">Adresse : Porte 244, rue de la Tapoa, quartier francophonie, Niamey Niger</a></p>
+						<p><a href="#">Adresse : 244, rue Carles de Gaule, quartier francophonie, Niamey Niger</a></p>
 							</form>
 						</div>
 					</div>
