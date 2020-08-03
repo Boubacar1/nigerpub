@@ -61,7 +61,7 @@
 				<div class="row">
 					<div class="col-md-4 clearfix">
 						<div class="logo pull-left">
-						<a href="{{URL::to('/')}}"><img src="{{URL::to('frontend/images/home/logo.png')}}" alt="" /></a>
+						<a href="{{URL::to('/')}}"><img src="{{URL::to('frontend/images/home/logo.jpg')}}" alt="" /></a>
 						</div>
 						<div class="btn-group pull-right clearfix">
 							<div class="btn-group">
