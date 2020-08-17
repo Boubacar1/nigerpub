@@ -36,7 +36,7 @@
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
 								<li><a href="#"><i class="fa fa-phone"></i> +227 80 87 46 71</a></li>
-								<li><a href="#"><i class="fa fa-phone"></i> +227 96 53 66 38</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> +227 90 33 31 06</a></li>
 								<li><a href="#"><i class="fa fa-envelope"></i> contact@nigerpub.com</a></li>
 							</ul>
 						</div>
@@ -442,7 +442,7 @@
 								<p>Conctez-nous</p>
 								<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i>+227 80 87 46 71 / +227 96 53 66 38</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i>+227 80 87 46 71 / +227 90 33 31 06</a></li>
 								<li><a href="#"><i class="fa fa-envelope"></i> contact@nigerpub.com</a></li>
 							</ul>
 						</div>
