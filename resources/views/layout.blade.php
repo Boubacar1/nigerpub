@@ -446,7 +446,7 @@
 								<li><a href="#"><i class="fa fa-envelope"></i> contact@nigerpub.com</a></li>
 							</ul>
 						</div>
-						<p><a href="#">Adresse : 244, rue Carles de Gaule, quartier francophonie, Niamey Niger</a></p>
+						<p><a href="#">Adresse : 244, rue Charles de Gaulle, quartier francophonie, Niamey Niger</a></p>
 							</form>
 						</div>
 					</div>
