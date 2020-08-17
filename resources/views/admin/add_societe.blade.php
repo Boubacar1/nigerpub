@@ -78,13 +78,13 @@
                 <div class="control-group hidden-phone">
                     <label class="control-label" for="textarea2">Designation de la société</label>
                     <div class="controls">
-                      <textarea class="cleditor" name="societe_short_description" rows="3" required=""></textarea>
+                      <textarea class="text" name="societe_short_description" rows="3" required=""></textarea>
                     </div>
                 </div>
                 <div class="control-group hidden-phone">
                     <label class="control-label" for="textarea2">Détail de la société</label>
                     <div class="controls">
-                        <textarea class="cleditor" name="societe_long_description" rows="3" required=""></textarea>
+                        <textarea class="text" name="societe_long_description" rows="3" required=""></textarea>
                     </div>
                 </div>
                 <div class="control-group">
