@@ -393,44 +393,41 @@
 						<div class="single-widget">
 							<h2>Transfert d'argent</h2>
 							<ul class="nav nav-pills nav-stacked">
-							<li><a href="#">Company Information</a></li>
-								<li><a href="#">Careers</a></li>
-								<li><a href="#">Store Location</a></li>
-								<li><a href="#">Affillate Program</a></li>
+							<img src="{{URL::to('frontend/images/home/digital.png')}}" alt="" />
 							</ul>
 						</div>
 					</div>
 					<div class="col-sm-2">
 						<div class="single-widget">
 							<h2>Transport</h2>
-							<ul class="nav nav-pills nav-stacked">
+							<!-- <ul class="nav nav-pills nav-stacked">
 							<li><a href="#">Company Information</a></li>
 								<li><a href="#">Careers</a></li>
 								<li><a href="#">Store Location</a></li>
 								<li><a href="#">Affillate Program</a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 					<div class="col-sm-2">
 						<div class="single-widget">
 							<h2>Téléphonie mobile</h2>
-							<ul class="nav nav-pills nav-stacked">
+							<!-- <ul class="nav nav-pills nav-stacked">
 							<li><a href="#">Company Information</a></li>
 								<li><a href="#">Careers</a></li>
 								<li><a href="#">Store Location</a></li>
 								<li><a href="#">Affillate Program</a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 					<div class="col-sm-2">
 						<div class="single-widget">
 							<h2>Tourisme</h2>
-							<ul class="nav nav-pills nav-stacked">
-								<li><a href="#">Company Information</a></li>
+							<!-- <ul class="nav nav-pills nav-stacked">
+							<li><a href="#">Company Information</a></li>
 								<li><a href="#">Careers</a></li>
 								<li><a href="#">Store Location</a></li>
 								<li><a href="#">Affillate Program</a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 					<div class="col-sm-3 col-sm-offset-1">
@@ -450,7 +447,6 @@
 							</form>
 						</div>
 					</div>
-					
 				</div>
 			</div>
 		</div>
